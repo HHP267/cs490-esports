@@ -24,7 +24,7 @@ button {
     padding: 14px 20px;
     margin: 0;
     position: absolute;
-    top: 60%;
+    top: 80%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -33,6 +33,7 @@ button {
     border: 2px solid black;
     cursor: pointer;
 }
+
 
     /* Add a hover effect for buttons */
     button:hover {
